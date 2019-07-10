@@ -1,0 +1,7 @@
+C:\Users\JOYNAL\source\repos\Reference\Reference\bin\Debug\Reference.exe.config
+C:\Users\JOYNAL\source\repos\Reference\Reference\bin\Debug\Reference.exe
+C:\Users\JOYNAL\source\repos\Reference\Reference\bin\Debug\Reference.pdb
+C:\Users\JOYNAL\source\repos\Reference\Reference\obj\Debug\Reference.csprojAssemblyReference.cache
+C:\Users\JOYNAL\source\repos\Reference\Reference\obj\Debug\Reference.csproj.CoreCompileInputs.cache
+C:\Users\JOYNAL\source\repos\Reference\Reference\obj\Debug\Reference.exe
+C:\Users\JOYNAL\source\repos\Reference\Reference\obj\Debug\Reference.pdb
